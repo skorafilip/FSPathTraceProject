@@ -1,0 +1,3 @@
+[submodule "Plugins/FSPathTracerPlugin"]
+	path = Plugins/FSPathTracerPlugin
+	url = https://github.com/skorafilip/FSPathTracerPlugin.git
